@@ -1,4 +1,6 @@
-  <svg width="220" height="150" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="envelope" viewBox="0 0 220 150">
     <rect width="200" height="130" x="10" y="10" rx="5" ry="5" fill="none" stroke-width="10px" stroke="black" />
     <polyline points="10,10 110,65 210,10" stroke="black" stroke-width="10px" fill="none"/>
-  </svg>
+  </symbol>
+</svg>
